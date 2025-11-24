@@ -3,7 +3,7 @@
     "kernelSource": {
       "device": "ruby",
       "vendor": "xiaomi",
-      "name": "hypermoon-experimental",
+      "name": "thian_experimntal",
       "defconfig": "ruby_user_defconfig",
       "extraConfig": "",
       "repo": "https://github.com/alan7383/kernel_xiaomi_ruby",
