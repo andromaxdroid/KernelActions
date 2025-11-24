@@ -9,7 +9,7 @@
       "repo": "https://github.com/alan7383/kernel_xiaomi_ruby",
       "branch": "ruby-s-oss"
     },
-    "output_image": "Image.gz",
+    "output_image": "Image.gz-dtb",
     "use_python2": false,
     "additional_script_link": "https://github.com/DR-KernelArchive/KernelActions/raw/main/scripts/xiaomi_ruby/hos3-exp-version.sh",
     "additional_post_script_link": "disabled",
