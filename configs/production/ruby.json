@@ -1,6 +1,6 @@
 {
   "kernelSource": {
-    "device": "ruby", // device codename
+    "device": "ruby",
     "vendor": "xiaomi", // device manufacture
     "name": "moonwake-kernelsu-next", // type whatever you want here
     "defconfig": "ruby_defconfig", // the defconfig name in arch/arm64/configs folder. Choose the one have your device codename
