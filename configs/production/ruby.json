@@ -5,8 +5,8 @@
     "name": "moonwake-kernelsu-next", 
     "defconfig": "ruby_defconfig", 
     "extraConfig": "", 
-    "repo": "https://github.com/andromaxdroid/hos3_hypermoon_kernel_xiaomi_ruby.git", 
-    "branch": "14.0" 
+    "repo": "https://github.com/DR-KernelArchive/android_kernel_xiaomi_ginkgo",
+    "branch": "revert-29-4"
   },
   "output_image": "Image",
   "kp": {
