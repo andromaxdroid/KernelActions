@@ -4,7 +4,7 @@
       "device": "ruby",
       "vendor": "xiaomi",
       "name": "thian_experimntal",
-      "defconfig": "ruby_user_defconfig",
+      "defconfig": "ruby_defconfig",
       "extraConfig": "",
       "repo": "https://github.com/alan7383/kernel_xiaomi_ruby",
       "branch": "ruby-s-oss"
