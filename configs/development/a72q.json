@@ -5,7 +5,7 @@
       "vendor": "samsung",
       "name": "notfleshka",
       "defconfig": "vendor/samsung/a72q.config",
-      "extraConfig": "vendor/samsung/sm7125_defconfig",
+      "extraConfig": "vendor/samsung/sma72_defconfig",
       "repo": "https://github.com/neophyteprjkt/kernel_xiaomi_ginkgo",
       "branch": "sma72"
     },
