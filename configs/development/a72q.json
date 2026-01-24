@@ -3,11 +3,11 @@
     "kernelSource": {
       "device": "a72q",
       "vendor": "samsung",
-      "name": "notfleshka",
-      "defconfig": "vendor/samsung/a72q.config",
-      "extraConfig": "vendor/samsung/sm7125_defconfig",
-      "repo": "https://github.com/notfleshka/android_kernel_samsung_sm7125",
-      "branch": "susfs-sidex"
+      "name": "dpr-valeryn",
+      "defconfig": "vendor/samsung/sma72_defconfig",
+      "extraConfig": "",
+      "repo": "https://github.com/neophyteprjkt/kernel_xiaomi_ginkgo",
+      "branch": "sma72"
     },
     "output_image": "Image.gz",
     "use_python2": false,
@@ -19,7 +19,7 @@
     },
     "kernelsu": {
       "enable": true,
-      "setupLink": "https://github.com/DR-KernelArchive/KernelSU-Unified/raw/susfs/kernel/setup.sh",
+      "setupLink": "https://raw.githubusercontent.com/DPR-MoonWake/KernelSU-Unified/refs/heads/susfs/kernel/setup.sh",
       "setupArg": "susfs",
       "setupName": "KernelSU",
       "needPatch": false,
@@ -27,8 +27,8 @@
     },
     "toolchains": [
       {
-        "repo": "https://github.com/DPR-MoonWake/clang-r383902",
-        "branch": "aosp",
+        "repo": "https://gitlab.com/nekoprjkt/aosp-clang",
+        "branch": "17",
         "name": "clang-AOSP",
         "binPath": ["/bin"]
       }
